@@ -1,5 +1,5 @@
 import React from "react";
-import Certificate from "../assets/img/certificate.png"
+import Certificate from "../assets/img/Certificate.jfif"
 import googledrive from "../assets/img/googledrive.png"
 import facebook from "../assets/img/facebook.png"
 import twitter from "../assets/img/twitter.png"
